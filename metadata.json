@@ -1,0 +1,6 @@
+{
+  "name": "DineFrame - Premium Restaurant & Online Ordering Platform",
+  "description": "A production-grade, multi-branch restaurant website and online ordering system with real-time branch selection, live cart and checkout, order tracking, and restaurant administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
